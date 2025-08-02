@@ -7,7 +7,7 @@ This repository contains the outcomes of the project focused on developing a two
 ![gif](/03_Doc/hand_exploded_view.gif)
 
 ## Demo video
-TODO
+[![video](/03_Doc/yt_thumbnail.png)](https://youtu.be/Y5HJTN2VO6Q)
 
 ## Bill of Materials – Purchased Components
 | Description                      | Quantity | Manufacturer |
