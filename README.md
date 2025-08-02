@@ -2,15 +2,9 @@
 
 This repository contains the outcomes of the project focused on developing a two-finger model of a bionic hand. The work was conducted by **Mathias Fuhrer, Tobias Klausmann, Jens Polzien, and Thomas Rapp** at **Hochschule Karlsruhe (H-KA**) during the summer semester of 2022.
 
-<p align="center">
-  <img src="/03_Doc/cad_asm_complete_1.png" alt="asm1" width="45%" />
-  <img src="/03_Doc/cad_asm_complete_2.png" alt="asm2" width="45%" />
-</p>
+![img](/03_Doc/hand_collage.png)
 
-<p align="center">
-  <img src="/03_Doc/asm_complete_1.png" alt="asm1" width="45%" />
-  <img src="/03_Doc/asm_complete_2.png" alt="asm2" width="45%" />
-</p>
+![gif](/03_Doc/hand_exploded_view.gif)
 
 ## Demo video
 TODO
